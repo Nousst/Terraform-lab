@@ -12,10 +12,6 @@ variable "env" {
 
 }
 variable "instance-name" {
-  default = "Postgresql-server-dev"
-
-}
-variable "team" {
-  default = "dev team"
+  default = "route53-server-dev"
 
 }
